@@ -14,3 +14,5 @@ elif hour > 12 and hour <=18:
 
 elif hour >18 and  hour <=24:
     print("Добрый вечер!")
+    
+    # закончили
